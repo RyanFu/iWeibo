@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iweibo/!svn/ver/2562/iweibo/iweibo/InternetDataServices/IWeiboEngine
+END
+IWeiboSyncHttpRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iweibo/!svn/ver/2085/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboSyncHttpRequest.m
+END
+HotUserInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iweibo/!svn/ver/1173/iweibo/iweibo/InternetDataServices/IWeiboEngine/HotUserInfo.m
+END
+IWeiboASyncHttpRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/iweibo/!svn/ver/2562/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboASyncHttpRequest.m
+END
+IWeiboSyncApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/128/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboSyncApi.m
+END
+IWeiboAsyncApi.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/2508/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboAsyncApi.m
+END
+HotUserViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iweibo/!svn/ver/2425/iweibo/iweibo/InternetDataServices/IWeiboEngine/HotUserViewController.m
+END
+HeadDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/1077/iweibo/iweibo/InternetDataServices/IWeiboEngine/HeadDownloader.h
+END
+IWeiboSyncHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iweibo/!svn/ver/128/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboSyncHttpRequest.h
+END
+HeadDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/1173/iweibo/iweibo/InternetDataServices/IWeiboEngine/HeadDownloader.m
+END
+HotUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iweibo/!svn/ver/1173/iweibo/iweibo/InternetDataServices/IWeiboEngine/HotUserInfo.h
+END
+IWeiboASyncHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/iweibo/!svn/ver/2373/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboASyncHttpRequest.h
+END
+IWeiboSyncApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/128/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboSyncApi.h
+END
+IWeiboAsyncApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/2373/iweibo/iweibo/InternetDataServices/IWeiboEngine/IWeiboAsyncApi.h
+END
+HotUserViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iweibo/!svn/ver/2462/iweibo/iweibo/InternetDataServices/IWeiboEngine/HotUserViewController.h
+END

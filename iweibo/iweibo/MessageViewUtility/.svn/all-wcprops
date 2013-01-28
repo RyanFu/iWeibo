@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iweibo/!svn/ver/2608/iweibo/iweibo/MessageViewUtility
+END
+DetailPageSourceViewFrameCalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/DetailPageSourceViewFrameCalc.h
+END
+MessageFrameConsts.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iweibo/!svn/ver/1322/iweibo/iweibo/MessageViewUtility/MessageFrameConsts.h
+END
+SourceViewFrameCalcBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/SourceViewFrameCalcBase.m
+END
+TimelinePageConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iweibo/!svn/ver/1045/iweibo/iweibo/MessageViewUtility/TimelinePageConst.h
+END
+OriginViewFrameCalcBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/OriginViewFrameCalcBase.h
+END
+MessageViewFrameCalcBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iweibo/!svn/ver/2608/iweibo/iweibo/MessageViewUtility/MessageViewFrameCalcBase.m
+END
+DetailPageSourceViewFrameCalc.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/DetailPageSourceViewFrameCalc.m
+END
+DetailPageOriginViewFrameCalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/DetailPageOriginViewFrameCalc.h
+END
+OriginViewFrameCalcBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/OriginViewFrameCalcBase.m
+END
+MessageViewUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iweibo/!svn/ver/1731/iweibo/iweibo/MessageViewUtility/MessageViewUtility.h
+END
+SourceViewFrameCalcBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/SourceViewFrameCalcBase.h
+END
+DetailPageOriginViewFrameCalc.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/DetailPageOriginViewFrameCalc.m
+END
+MessageViewFrameCalcBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iweibo/!svn/ver/2604/iweibo/iweibo/MessageViewUtility/MessageViewFrameCalcBase.h
+END
+MessageViewUtility.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iweibo/!svn/ver/2510/iweibo/iweibo/MessageViewUtility/MessageViewUtility.m
+END

@@ -1,0 +1,41 @@
+//
+//  RumexCustomTabBar.h
+//  
+//
+//  Created by Oliver Farago on 19/06/2010.
+//  Copyright 2010 Rumex IT All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+extern NSString *const kThemeDidChangeNotification;
+
+@interface RXCustomTabBar : UITabBarController {
+	UIButton *btn1;
+	UIButton *btn2;
+	UIButton *btn3;
+	UIButton *btn4;
+    UIImageView *bubbleBg;
+	UIImageView *tabbarBg;
+    UILabel *bubbleLabel;
+    //放背景色地方
+    UIView *tabBarView;
+}
+
+@property (nonatomic, retain) UIButton *btn1;
+@property (nonatomic, retain) UIButton *btn2;
+@property (nonatomic, retain) UIButton *btn3;
+@property (nonatomic, retain) UIButton *btn4;
+
+@property (nonatomic, retain) UIView *tabBarView;
+
+-(void) hideTabBar;
+-(void) addCustomElements;
+
+-(void) hideNewTabBar;
+- (void)showNewTabBar;
+- (void)showNewMsgBubble:(NSString *)numMsg;
+- (void)hideNewMsgBubble;
+- (void)showNewMsgBubble:(NSString *)numMsg;
+
+@end

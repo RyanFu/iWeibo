@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iweibo/!svn/ver/2471/iweibo/iweibo/SearchPage/HotBroadcastSearch
+END
+HotBroadcastTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/iweibo/!svn/ver/2425/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastTableViewController.m
+END
+HotBroadcastInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/1980/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastInfo.h
+END
+HotBroadcastTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iweibo/!svn/ver/1991/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastTableCell.m
+END
+MessageViewCellInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iweibo/!svn/ver/1271/iweibo/iweibo/SearchPage/HotBroadcastSearch/MessageViewCellInfo.h
+END
+FriendSearchImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iweibo/!svn/ver/2471/iweibo/iweibo/SearchPage/HotBroadcastSearch/FriendSearchImageManager.h
+END
+HotBroadcastSrchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iweibo/!svn/ver/1086/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastSrchViewController.h
+END
+HotBroadcastInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/1980/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastInfo.m
+END
+TableCellBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/1311/iweibo/iweibo/SearchPage/HotBroadcastSearch/TableCellBuilder.h
+END
+DPUIImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/2080/iweibo/iweibo/SearchPage/HotBroadcastSearch/DPUIImageManager.h
+END
+MessageViewCellInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iweibo/!svn/ver/1886/iweibo/iweibo/SearchPage/HotBroadcastSearch/MessageViewCellInfo.m
+END
+FriendSearchImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iweibo/!svn/ver/2471/iweibo/iweibo/SearchPage/HotBroadcastSearch/FriendSearchImageManager.m
+END
+HotBroadcastSrchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iweibo/!svn/ver/1115/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastSrchViewController.m
+END
+TableCellBuilder.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/2067/iweibo/iweibo/SearchPage/HotBroadcastSearch/TableCellBuilder.m
+END
+DPUIImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/2080/iweibo/iweibo/SearchPage/HotBroadcastSearch/DPUIImageManager.m
+END
+UITableViewCellEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iweibo/!svn/ver/1991/iweibo/iweibo/SearchPage/HotBroadcastSearch/UITableViewCellEx.h
+END
+MessageViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iweibo/!svn/ver/1991/iweibo/iweibo/SearchPage/HotBroadcastSearch/MessageViewCell.h
+END
+UITableViewControllerEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iweibo/!svn/ver/2085/iweibo/iweibo/SearchPage/HotBroadcastSearch/UITableViewControllerEx.h
+END
+UITableViewCellEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iweibo/!svn/ver/1991/iweibo/iweibo/SearchPage/HotBroadcastSearch/UITableViewCellEx.m
+END
+MessageViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iweibo/!svn/ver/2004/iweibo/iweibo/SearchPage/HotBroadcastSearch/MessageViewCell.m
+END
+HotBroadcastTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/iweibo/!svn/ver/2397/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastTableViewController.h
+END
+HotBroadcastTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iweibo/!svn/ver/1991/iweibo/iweibo/SearchPage/HotBroadcastSearch/HotBroadcastTableCell.h
+END
+UITableViewControllerEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iweibo/!svn/ver/2085/iweibo/iweibo/SearchPage/HotBroadcastSearch/UITableViewControllerEx.m
+END

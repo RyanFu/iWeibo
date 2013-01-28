@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth
+END
+NSString+QEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/NSString+QEncoding.h
+END
+NSData+QBase64.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/NSData+QBase64.h
+END
+NSURL+Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/NSURL+Additions.h
+END
+IweiboOauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/IweiboOauth.h
+END
+NSString+QEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/NSString+QEncoding.m
+END
+NSData+QBase64.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/NSData+QBase64.m
+END
+NSURL+Additions.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/NSURL+Additions.m
+END
+IweiboOauth.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iweibo/!svn/ver/127/iweibo/iweibo/InternetDataServices/IweiboOauth/IweiboOauth.m
+END

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>LoginUserName</key>
+		<string></string>
+		<key>UserFirstLogin</key>
+		<string>0</string>
+		<key>UserLogin</key>
+		<string>0</string>
+		<key>Description</key>
+		<string>iWeibo系统是基于腾讯微博开放平台API开发的一套免费微博系统，拥有腾讯微博的全部功能，且为各垂直领域做专业化的组件设计与开发；同时与腾讯微博平台互通，开发者可获得海量的腾讯用户与信息资源，并在此版本基础上进行二次功能开发。</string>
+		<key>ServerName</key>
+		<string>iWeibo Demo</string>
+		<key>IsActive</key>
+		<string>0</string>
+		<key>IsDefaultWBServer</key>
+		<string>1</string>
+		<key>loginBGImagePath</key>
+		<string>IweiboImage/test</string>
+		<key>iconsPath</key>
+		<string>test</string>
+		<key>URL</key>
+		<string>http://demo.i.t.qq.com/index.php/mobile/</string>
+		<key>Official</key>
+		<string>testserve</string>
+		<key>themeVer</key>
+		<string>-1</string>
+		<key>FirstTempValue</key>
+		<string></string>
+		<key>SecondTempValue</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

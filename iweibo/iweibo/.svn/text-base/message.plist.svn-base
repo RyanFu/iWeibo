@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string></string>
+		<key>name</key>
+		<string>赵德彪</string>
+		<key>message</key>
+		<string>sdjfkdsf http://www.baidu.com   百度 http://www.baidu.com</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string></string>
+		<key>name</key>
+		<string>一块去旅行</string>
+		<key>message</key>
+		<string>夏威夷的浅海、https://blog.csdn.net/favormm/article/details/6213671喜欢这纯净吗？</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string></string>
+		<key>name</key>
+		<string>欧美街拍</string>
+		<key>message</key>
+		<string>我最害怕的事是我最终没有嫁给你。---张小娴</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>TimelineImage</key>
+		<string>SecondSkin/TimelineImage</string>
+		<key>SearchPageFirstImage</key>
+		<string>SecondSkin/SearchPageFirstImage</string>
+		<key>SearchPageSecondImage</key>
+		<string>SecondSkin/SearchPageSecondImage</string>
+		<key>Common</key>
+		<string>SecondSkin/Common</string>
+		<key>SingleMessageImage</key>
+		<string>SecondSkin/SingleMessageImage</string>
+	</dict>
+	<dict>
+		<key>TimelineImage</key>
+		<string>FirstSkin/TimelineImage</string>
+		<key>SingleMessageImage</key>
+		<string>FirstSkin/SingleMessageImage</string>
+		<key>SearchPageFirstImage</key>
+		<string>FirstSkin/SearchPageFirstImage</string>
+		<key>SearchPageSecondImage</key>
+		<string>FirstSkin/SearchPageSecondImage</string>
+		<key>Common</key>
+		<string>FirstSkin/Common</string>
+	</dict>
+</array>
+</plist>
