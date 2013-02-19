@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/friend
+END
+user_fanslist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/friend/user_fanslist.tpl
+END
+user_idollist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/friend/user_idollist.tpl
+END
+comm_idolfans.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/friend/comm_idolfans.tpl
+END
+guest_fanslist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/friend/guest_fanslist.tpl
+END
+guest_idollist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/friend/guest_idollist.tpl
+END

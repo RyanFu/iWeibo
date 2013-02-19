@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/search
+END
+t.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/search/t.tpl
+END
+all.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/search/all.tpl
+END
+null.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/search/null.tpl
+END
+tag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/search/tag.tpl
+END
+user.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/search/user.tpl
+END

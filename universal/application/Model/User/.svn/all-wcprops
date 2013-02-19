@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User
+END
+FriendOpen.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/FriendOpen.php
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Local.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Group.php
+END
+TagOpen.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/TagOpen.php
+END
+Util.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Util.php
+END
+MemberMobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/MemberMobile.php
+END
+Access.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Access.php
+END
+Open.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Open.php
+END
+FriendLocal.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/FriendLocal.php
+END
+Certification.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Certification.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Validator.php
+END
+TagLocal.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/TagLocal.php
+END
+Banned.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Banned.php
+END
+Member.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Model/User/Member.php
+END

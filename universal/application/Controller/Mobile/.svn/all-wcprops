@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/basic_weibo_rep/!svn/ver/8002/iweibo20_proj/trunk/src/universal/application/Controller/Mobile
+END
+Friends.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/basic/basic_weibo_rep/!svn/ver/7668/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Friends.php
+END
+Private.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/basic/basic_weibo_rep/!svn/ver/8002/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Private.php
+END
+Info.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7669/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Info.php
+END
+Statuses.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/basic/basic_weibo_rep/!svn/ver/7672/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Statuses.php
+END
+Fav.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7667/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Fav.php
+END
+Pexplore.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/basic/basic_weibo_rep/!svn/ver/7670/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Pexplore.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/User.php
+END
+T.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7673/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/T.php
+END
+Search.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Search.php
+END
+Customized.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/basic/basic_weibo_rep/!svn/ver/7666/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Customized.php
+END
+Timeline.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Controller/Mobile/Timeline.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/basic/basic_weibo_rep/!svn/ver/7922/iweibo20_proj/trunk/src/universal/application/Core/Comm
+END
+Mbemotion.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Mbemotion.php
+END
+Emotion.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Emotion.php
+END
+Modret.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7531/iweibo20_proj/trunk/src/universal/application/Core/Comm/Modret.php
+END
+Util.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Util.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Token.php
+END
+Emoji.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Emoji.php
+END
+Apiret.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Apiret.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/Validator.php
+END
+Mobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7922/iweibo20_proj/trunk/src/universal/application/Core/Comm/Mobile.php
+END
+City.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Comm/City.php
+END

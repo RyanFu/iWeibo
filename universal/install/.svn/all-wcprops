@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install
+END
+db.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/db.class.php
+END
+install.agreement.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/install.agreement.html
+END
+lang.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/lang.inc.php
+END
+db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/db.sql
+END
+setting_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/setting_basic.php
+END
+db_init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/db_init.sql
+END
+var.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/var.inc.php
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/style.css
+END
+setting_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/setting_db.php
+END
+func.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/func.inc.php
+END
+setting_uc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/setting_uc.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/index.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/install/index.htm
+END

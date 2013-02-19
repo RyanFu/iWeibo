@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/lib
+END
+db.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/lib/db.class.php
+END
+sendmail.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/lib/sendmail.inc.php
+END
+xml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/lib/xml.class.php
+END
+uccode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/lib/uccode.class.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/lib/index.htm
+END

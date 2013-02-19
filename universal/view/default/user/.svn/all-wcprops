@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user
+END
+t_dialog.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/t_dialog.tpl
+END
+tiview_views.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_views.tpl
+END
+event_hot_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_hot_list.tpl
+END
+event_myevent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_myevent.tpl
+END
+event_new.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_new.tpl
+END
+at_timeline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/at_timeline.tpl
+END
+event_members.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_members.tpl
+END
+index_timeline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/index_timeline.tpl
+END
+tiview_index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_index.tpl
+END
+tiview_answerbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_answerbox.tpl
+END
+event_join.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_join.tpl
+END
+tiview_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_view.tpl
+END
+favor_timeline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/favor_timeline.tpl
+END
+showt.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/showt.tpl
+END
+event_menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_menu.tpl
+END
+event_myjoin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_myjoin.tpl
+END
+event_index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_index.tpl
+END
+tiview_tbody.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_tbody.tpl
+END
+event_right_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_right_list.tpl
+END
+tlive_index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tlive_index.tpl
+END
+event_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/event_view.tpl
+END
+tag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tag.tpl
+END
+setting.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/setting.tpl
+END
+tiview_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_msg.tpl
+END
+tlive_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tlive_view.tpl
+END
+mine_timeline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/mine_timeline.tpl
+END
+accredit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/accredit.tpl
+END
+tiview_askbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/user/tiview_askbox.tpl
+END

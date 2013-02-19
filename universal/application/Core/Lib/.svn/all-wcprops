@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/basic/basic_weibo_rep/!svn/ver/7693/iweibo20_proj/trunk/src/universal/application/Core/Lib
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Base.php
+END
+Chinese.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Chinese.php
+END
+Tutil.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Tutil.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Session.php
+END
+Gifmerge.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Gifmerge.php
+END
+Seccode.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Seccode.php
+END
+UtilMobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7693/iweibo20_proj/trunk/src/universal/application/Core/Lib/UtilMobile.php
+END
+Gdcheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Lib/Gdcheck.php
+END

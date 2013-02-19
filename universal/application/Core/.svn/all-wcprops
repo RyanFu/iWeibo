@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/basic/basic_weibo_rep/!svn/ver/7922/iweibo20_proj/trunk/src/universal/application/Core
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Template.php
+END
+I18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/I18n.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Model.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Mail.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Cache.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Config.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Db.php
+END
+Fun.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Fun.php
+END

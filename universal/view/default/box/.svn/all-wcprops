@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/box
+END
+sendbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/box/sendbox.tpl
+END
+sendeach.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/box/sendeach.tpl
+END
+inbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/box/inbox.tpl
+END

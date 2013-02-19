@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index
+END
+public_timeline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index/public_timeline.tpl
+END
+showmsg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index/showmsg.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index/login.tpl
+END
+bind.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index/bind.tpl
+END
+guest_timeline.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index/guest_timeline.tpl
+END
+reg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/view/default/index/reg.tpl
+END

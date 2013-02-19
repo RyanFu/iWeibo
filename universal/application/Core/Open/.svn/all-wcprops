@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/basic/basic_weibo_rep/!svn/ver/7691/iweibo20_proj/trunk/src/universal/application/Core/Open
+END
+Api.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Open/Api.php
+END
+OpentMobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7682/iweibo20_proj/trunk/src/universal/application/Core/Open/OpentMobile.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Open/Client.php
+END
+Oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Open/Oauth.php
+END
+Opent.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/Core/Open/Opent.php
+END
+ClientMobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7691/iweibo20_proj/trunk/src/universal/application/Core/Open/ClientMobile.php
+END

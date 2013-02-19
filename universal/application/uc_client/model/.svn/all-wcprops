@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/base.php
+END
+misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/misc.php
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/tag.php
+END
+pm.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/pm.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/user.php
+END
+app.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/app.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/mail.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/cache.php
+END
+note.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/note.php
+END
+domain.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/domain.php
+END
+friend.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/friend.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/basic/basic_weibo_rep/!svn/ver/7497/iweibo20_proj/trunk/src/universal/application/uc_client/model/index.htm
+END

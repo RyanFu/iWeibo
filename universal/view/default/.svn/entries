@@ -1,0 +1,144 @@
+10
+
+dir
+9107
+https://tc-svn.tencent.com/basic/basic_weibo_rep/iweibo20_proj/trunk/src/universal/view/default
+https://tc-svn.tencent.com/basic/basic_weibo_rep
+
+
+
+2012-08-02T09:05:52.339914Z
+8002
+lololi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ca09ba19-a846-9543-bea4-2f982162135a
+
+people
+dir
+
+wap
+dir
+
+common
+dir
+
+box
+dir
+
+admin
+dir
+
+example
+dir
+
+skin.css
+file
+
+
+
+
+2013-01-08T02:42:38.000000Z
+c50c2cc166c0d58f2bea952c1d881940
+2012-05-09T07:29:00.739545Z
+7497
+lololi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29800
+
+wall
+dir
+
+component
+dir
+
+search
+dir
+
+images
+dir
+
+mobile
+dir
+
+index
+dir
+
+friend
+dir
+
+struct.css
+file
+
+
+
+
+2013-01-08T02:42:38.000000Z
+7d431a0a722d34449041db7528a9d435
+2012-05-09T07:29:00.739545Z
+7497
+lololi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+233
+
+topic
+dir
+
+user
+dir
+
+datatransfer
+dir
+
