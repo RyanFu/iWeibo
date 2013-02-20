@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+body {vertical-align:middle;word-wrap:break-word;margin:0;padding:0;font:18px/24px 微软雅黑,Tahoma, Geneva, sans-serif;width:100%;}
+.errhead {background:url(../../resource/images/iweibo.png) no-repeat 20px 2px #d1ebf9;height:52px;border-top:1px solid #9fc6ec;border-bottom:1px solid #9fc6ec;}
+.errmid {height:100%;margin-top:35px;text-align:center;}
+.bind_ok, .bind_fail {width:24px;height:24px;vertical-align:sub;display:inline-block;}
+.bind_ok {background:url(../../resource/images/bindok.png) no-repeat;}
+.bind_fail {background:url(../../resource/images/bindfail.png) no-repeat;}
